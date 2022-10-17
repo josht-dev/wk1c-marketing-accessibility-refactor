@@ -15,7 +15,7 @@ Landing page for Horiseon Social Solutions Services, Inc.
 https://josht-dev.github.io/wk1c-marketing-accessibility-refactor/
 
 ```md
-![alt text](./assets/images/josht-dev.github.io_wk1c-marketing-accessibility-refactor.png)
+![alt text](assets/images/josht-dev.github.io_wk1c-marketing-accessibility-refactor.png)
 ```
 
 
